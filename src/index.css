@@ -20,5 +20,14 @@ body {
 
 button {
   display: flex;
-  margin: 10px auto 0;
+  margin: auto;
+}
+
+input {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+select {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
